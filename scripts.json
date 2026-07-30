@@ -1,13 +1,8 @@
-[
-  {
-    "id": 1,
-    "name": "VIP Script",
-    "description": "Latest VIP Script",
-    "version": "1.0",
-    "size": "2.5 MB",
-    "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/vip.png",
-    "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/vip.zip",
-    "updated": "2026-07-29",
-    "status": "online"
-  }
-]
+{
+  "name":"VIP Script",
+  "version":"1.0",
+  "size":"2.5 MB",
+  "image":"https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/vip.png",
+
+  "branch":"https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/branches/vip.json"
+}
