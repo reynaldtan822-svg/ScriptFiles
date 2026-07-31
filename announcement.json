@@ -1,10 +1,10 @@
 {
   "enabled": true,
-  "title": "New Version Available",
-  "message": "Click the button below to update to the latest version.",
-  "button": "Later",
-  "showLink": true,
-  "linkButton": "Update Now",
-  "linkUrl": "https://github.com/reynaldtan822-svg/ScriptFiles/releases/latest",
+  "title": "Maintenance",
+  "message": "Testing Server",
+  "button": "OK",
+
+  "showLink": false,
+
   "forceUpdate": false
 }
