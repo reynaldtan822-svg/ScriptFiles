@@ -1,6 +1,10 @@
 {
   "enabled": true,
-  "title": "📢 Reytex Injector Announcement",
-  "message": "Welcome to Reytex Injector!\n\n• Added new VIP Script\n• Fixed download bugs\n• More updates coming soon!",
-  "button": "OK"
+  "title": "New Version Available",
+  "message": "Click the button below to update to the latest version.",
+  "button": "Later",
+  "showLink": true,
+  "linkButton": "Update Now",
+  "linkUrl": "https://github.com/reynaldtan822-svg/ScriptFiles/releases/latest",
+  "forceUpdate": false
 }
