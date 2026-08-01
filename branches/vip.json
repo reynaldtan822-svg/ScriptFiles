@@ -1,55 +1,31 @@
 {
-  "object": "VIP",
+  "object":"Benedetta",
 
-  "replacements": [
-
+  "skins":[
     {
-      "name": "Default",
-
-      "skins": [
-
-        {
-          "name": "Blazing Bounties",
-
-          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/blazing.png",
-
-          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/vip.zip"
-        },
-
-        {
-          "name": "Collector",
-
-          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/collector.png",
-
-          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/collector.zip"
-        },
-
-        {
-          "name": "Transformers",
-
-          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/transformers.png",
-
-          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/transformers.zip"
-        }
-
-      ]
+      "name":"Default",
+      "image":"https://..."
     },
-
     {
-      "name": "Basic",
-
-      "skins": [
-
-        {
-          "name": "Misbender",
-
-          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/misbender.png",
-
-          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/misbender.zip"
-        }
-
-      ]
+      "name":"Basic",
+      "image":"https://..."
+    },
+    {
+      "name":"Elite",
+      "image":"https://..."
     }
+  ],
 
+  "replacements":[
+    {
+      "from":"Default",
+      "to":"Elite",
+      "download":"https://.....zip"
+    },
+    {
+      "from":"Basic",
+      "to":"Elite",
+      "download":"https://.....zip"
+    }
   ]
 }
