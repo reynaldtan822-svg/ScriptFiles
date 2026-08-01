@@ -1,31 +1,33 @@
 {
-  "object":"Benedetta",
+  "object": "Benedetta",
 
-  "skins":[
-    {
-      "name":"Default",
-      "image":"https://..."
-    },
-    {
-      "name":"Basic",
-      "image":"https://..."
-    },
-    {
-      "name":"Elite",
-      "image":"https://..."
-    }
-  ],
+  "replacements": [
 
-  "replacements":[
     {
-      "from":"Default",
-      "to":"Elite",
-      "download":"https://.....zip"
-    },
-    {
-      "from":"Basic",
-      "to":"Elite",
-      "download":"https://.....zip"
+      "name": "Default",
+
+      "skins": [
+
+        {
+          "name": "Default",
+          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/default.png",
+          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/default.zip"
+        },
+
+        {
+          "name": "Collector",
+          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/collector.png",
+          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/collector.zip"
+        },
+
+        {
+          "name": "Starlight",
+          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/starlight.png",
+          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/starlight.zip"
+        }
+
+      ]
     }
+
   ]
 }
