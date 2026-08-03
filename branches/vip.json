@@ -2,37 +2,37 @@
   "object": "Benedetta",
 
   "replacements": [
-
     {
       "name": "Default",
-    
       "skins": [
-
         {
           "name": "Default",
           "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/default.png",
           "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/default.zip"
         },
-
         {
           "name": "Collector",
           "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/collector.png",
           "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/collector.zip"
-        },
+        }
+      ]
+    },
 
+    {
+      "name": "Collector",
+      "skins": [
+        {
+          "name": "Default",
+          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/default2.png",
+          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/default2.zip"
+        },
         {
           "name": "Starlight",
-          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/starlight.png",
-          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/starlight.zip"
+          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/starlight2.png",
+          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/starlight2.zip"
         }
-
       ]
     }
-
-      
-    
-  }
-
-
-   
+  ]
+}   
 
