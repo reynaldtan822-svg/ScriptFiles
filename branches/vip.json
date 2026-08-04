@@ -1,25 +1,35 @@
 {
   "object": "Benedetta",
-  "replacements": [
+  "originals": [
     {
       "name": "Default",
-      "skins": [
+      "image": "...",
+
+      "replacements": [
         {
-          "name": "Default",
-          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/Picsart_26-07-30_08-48-48-588.png",
-          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/default.zip"
+          "name": "Epic",
+          "image": "...",
+          "download": "..."
         },
         {
-          "name": "Collector Test",
-          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/collector.png",
-          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/vip.zip"
-        },
+          "name": "Special",
+          "image": "...",
+          "download": "..."
+        }
+      ]
+    },
+
+    {
+      "name": "Elite",
+      "image": "...",
+
+      "replacements": [
         {
-          "name": "Starlight",
-          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/starlight.png",
-          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/starlight.zip"
+          "name": "Epic",
+          "image": "...",
+          "download": "..."
         }
       ]
     }
   ]
-}}
+}
