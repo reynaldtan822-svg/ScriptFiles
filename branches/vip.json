@@ -1,25 +1,70 @@
 {
   "object": "Benedetta",
-  "replacements": [
+
+  "originals": [
+
     {
       "name": "Default",
-      "skins": [
+      "image": "https://yourserver/images/default.png",
+
+      "replacements": [
+
         {
-          "name": "Default",
-          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/default.png",
-          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/default.zip"
+          "name": "Basic",
+          "image": "https://yourserver/images/basic.png",
+          "download": "https://yourserver/files/default_to_basic.zip"
         },
+
+        {
+          "name": "Elite",
+          "image": "https://yourserver/images/elite.png",
+          "download": "https://yourserver/files/default_to_elite.zip"
+        },
+
+        {
+          "name": "Special",
+          "image": "https://yourserver/images/special.png",
+          "download": "https://yourserver/files/default_to_special.zip"
+        },
+
+        {
+          "name": "Epic",
+          "image": "https://yourserver/images/epic.png",
+          "download": "https://yourserver/files/default_to_epic.zip"
+        },
+
         {
           "name": "Collector",
-          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/collector.png",
-          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/collector.zip"
-        },
-        {
-          "name": "Starlight",
-          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/starlight.png",
-          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/starlight.zip"
+          "image": "https://yourserver/images/collector.png",
+          "download": "https://yourserver/files/default_to_collector.zip"
         }
+
       ]
+
+    },
+
+    {
+      "name": "Elite",
+      "image": "https://yourserver/images/elite.png",
+
+      "replacements": [
+
+        {
+          "name": "Collector",
+          "image": "https://yourserver/images/collector.png",
+          "download": "https://yourserver/files/elite_to_collector.zip"
+        },
+
+        {
+          "name": "Lucky Box",
+          "image": "https://yourserver/images/luckybox.png",
+          "download": "https://yourserver/files/elite_to_luckybox.zip"
+        }
+
+      ]
+
     }
+
   ]
+
 }
