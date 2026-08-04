@@ -1,33 +1,23 @@
 {
   "object": "Benedetta",
-  "originals": [
+  "replacements": [
     {
       "name": "Default",
-      "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/default.png",
-
-      "replacements": [
+      "skins": [
         {
-          "name": "Epic",
-          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/epic.png",
-          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/epic.zip"
+          "name": "Default",
+          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/default.png",
+          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/default.zip"
         },
         {
-          "name": "Special",
-          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/special.png",
-          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/special.zip"
-        }
-      ]
-    },
-
-    {
-      "name": "Elite",
-      "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/elite.png",
-
-      "replacements": [
+          "name": "Collector",
+          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/collector.png",
+          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/collector.zip"
+        },
         {
-          "name": "Epic",
-          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/epic.png",
-          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/epic.zip"
+          "name": "Starlight",
+          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/starlight.png",
+          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/starlight.zip"
         }
       ]
     }
