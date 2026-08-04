@@ -3,31 +3,31 @@
   "originals": [
     {
       "name": "Default",
-      "image": "...",
+      "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/default.png",
 
       "replacements": [
         {
           "name": "Epic",
-          "image": "...",
-          "download": "..."
+          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/epic.png",
+          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/epic.zip"
         },
         {
           "name": "Special",
-          "image": "...",
-          "download": "..."
+          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/special.png",
+          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/special.zip"
         }
       ]
     },
 
     {
       "name": "Elite",
-      "image": "...",
+      "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/elite.png",
 
       "replacements": [
         {
           "name": "Epic",
-          "image": "...",
-          "download": "..."
+          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/epic.png",
+          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/epic.zip"
         }
       ]
     }
