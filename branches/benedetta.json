@@ -1,21 +1,28 @@
 {
   "object": "Benedetta",
-
-  "originals": [
+  "replacements": [
     {
-      "name": "Default",
-      "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/default.png",
-
-      "replacements": [
+      "name": "Collector Skin",
+      "skins": [
         {
-          "name": "Collector",
-          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/collector.png",
-          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/default_to_collector.zip"
+          "name": "Benedetta Collector",
+          "image": "https://your-image-link.com/benedetta_collector.png",
+          "download": "https://your-download-link.com/file.zip"
         },
         {
-          "name": "Epic",
-          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/epic.png",
-          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/default_to_epic.zip"
+          "name": "Benedetta Epic",
+          "image": "https://your-image-link.com/benedetta_epic.png",
+          "download": "https://your-download-link.com/file2.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight Skin",
+      "skins": [
+        {
+          "name": "Benedetta Starlight",
+          "image": "https://your-image-link.com/benedetta_star.png",
+          "download": "https://your-download-link.com/file3.zip"
         }
       ]
     }
