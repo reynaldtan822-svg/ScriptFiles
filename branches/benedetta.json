@@ -1,28 +1,33 @@
 {
-  "object": "Benedetta",
-  "replacements": [
+  "object": "Hero Name",
+  "originals": [
     {
-      "name": "Collector Skin",
-      "skins": [
+      "name": "Original Skin",
+      "image": "https://example.com/original.png",
+      "replacements": [
         {
-          "name": "Benedetta Collector",
-          "image": "https://your-image-link.com/benedetta_collector.png",
-          "download": "https://your-download-link.com/file.zip"
+          "name": "Replacement Skin 1",
+          "image": "https://example.com/replacement1.png",
+          "download": "https://example.com/file1.zip",
+          "branch": ""
         },
         {
-          "name": "Benedetta Epic",
-          "image": "https://your-image-link.com/benedetta_epic.png",
-          "download": "https://your-download-link.com/file2.zip"
+          "name": "Replacement Skin 2",
+          "image": "https://example.com/replacement2.png",
+          "download": "https://example.com/file2.zip",
+          "branch": ""
         }
       ]
     },
     {
-      "name": "Starlight Skin",
-      "skins": [
+      "name": "Second Original Skin",
+      "image": "https://example.com/original2.png",
+      "replacements": [
         {
-          "name": "Benedetta Starlight",
-          "image": "https://your-image-link.com/benedetta_star.png",
-          "download": "https://your-download-link.com/file3.zip"
+          "name": "Replacement A",
+          "image": "https://example.com/replacementA.png",
+          "download": "https://example.com/fileA.zip",
+          "branch": ""
         }
       ]
     }
