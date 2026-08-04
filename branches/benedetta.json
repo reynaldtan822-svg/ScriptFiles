@@ -1,0 +1,44 @@
+{
+  "object": "Benedetta",
+
+  "originals": [
+
+    {
+      "name": "Default",
+      "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/default.png",
+
+      "replacements": [
+
+        {
+          "name": "Collector",
+          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/collector.png",
+          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/default_to_collector.zip"
+        },
+
+        {
+          "name": "Epic",
+          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/epic.png",
+          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/default_to_epic.zip"
+        }
+
+      ]
+    },
+
+
+    {
+      "name": "Special",
+      "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/special.png",
+
+      "replacements": [
+
+        {
+          "name": "Collector",
+          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/collector.png",
+          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/special_to_collector.zip"
+        }
+
+      ]
+    }
+
+  ]
+}
