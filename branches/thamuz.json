@@ -1,0 +1,35 @@
+{
+  "object": "THAMUZ",
+  "originals": [
+    {
+      "name": "Original Skin",
+      "image": "https://example.com/original.png",
+      "replacements": [
+        {
+          "name": "Replacement Skin 1",
+          "image": "https://example.com/replacement1.png",
+          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/vip.zip",
+          "branch": ""
+        },
+        {
+          "name": "Replacement Skin 2",
+          "image": "https://example.com/replacement2.png",
+          "download": "https://example.com/file2.zip",
+          "branch": ""
+        }
+      ]
+    },
+    {
+      "name": "Second Original Skin",
+      "image": "https://example.com/original2.png",
+      "replacements": [
+        {
+          "name": "Replacement A",
+          "image": "https://example.com/replacementA.png",
+          "download": "https://example.com/fileA.zip",
+          "branch": ""
+        }
+      ]
+    }
+  ]
+}
