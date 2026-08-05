@@ -2,15 +2,50 @@
   "object": "THAMUZ",
   "originals": [
     {
-      "name": "Original Skin",
+      "name": "Default",
       "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/thamuz.png",
       "replacements": [
         {
-          "name": "KungFuPanda (general kai)",
+          "name": "KungFuPanda (General Kai)",
           "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/kungfupanda.png",
           "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/generalkai.zip",
           "branch": ""
-
+        }
+      ]
+    },
+    {
+      "name": "Basic",
+      "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/thamuz-basic.png",
+      "replacements": [
+        {
+          "name": "KungFuPanda (General Kai)",
+          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/kungfupanda.png",
+          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/generalkai.zip",
+          "branch": ""
+        }
+      ]
+    },
+    {
+      "name": "elite",
+      "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/thamuz-elite.png",
+      "replacements": [
+        {
+          "name": "KungFuPanda (General Kai)",
+          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/kungfupanda.png",
+          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/generalkai.zip",
+          "branch": ""
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/thamuz-special.png",
+      "replacements": [
+        {
+          "name": "KungFuPanda (General Kai)",
+          "image": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/images/kungfupanda.png",
+          "download": "https://raw.githubusercontent.com/reynaldtan822-svg/ScriptFiles/main/files/generalkai.zip",
+          "branch": ""
         }
       ]
     }
