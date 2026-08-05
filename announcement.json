@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "title": "Maintenance",
-  "message": "Testing Server",
-  "button": "OK",
+  "message": "Owner is Busy for a few days",
+  "button": "OKAY",
 
   "showLink": false,
 
